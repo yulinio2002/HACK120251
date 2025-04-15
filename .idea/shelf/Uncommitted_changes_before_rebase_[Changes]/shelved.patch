@@ -1,0 +1,22 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Hackathon 0: Dominando Git y GitHub \uD83D\uDE80\r\n\r\n## Participantes:\r\n\r\n1.-Yulino Zavala Mariño\r\n2.-Christian Mar Carrillo\r\n3.-\r\n4.- Saul Baltazar Palomino \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 60e7244432e2cdeb1a6b9e9d5e121d1dae0016c2)
++++ b/README.md	(date 1744754571523)
+@@ -3,6 +3,11 @@
+ ## Participantes:
+ 
+ 1.-Yulino Zavala Mariño
++
+ 2.-Christian Mar Carrillo
++
++Buenas mi nombre es Christian Mar, soy estudiante de Admnistracion de Negocios Digitales de 6to ciclo
++
+ 3.-
++
+ 4.- Saul Baltazar Palomino 
