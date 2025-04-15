@@ -2,7 +2,7 @@
 
 ## Participantes:
 
-1.-Yulino Zavala Mariño
+1.-Yulino Zavala Mariño, soy estudiante de Ingeniería Electrónica de 8 ciclo.
 
 2.-Christian Mar Carrillo
 
