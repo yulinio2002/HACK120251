@@ -1,0 +1,15 @@
+Index: src/main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>def calculate() -> float:\r\n    pass\r\n#Hola comentario
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main.py b/src/main.py
+--- a/src/main.py	(revision 13f5a124001d364cc4a5c4cbfba4a4e2882b9119)
++++ b/src/main.py	(date 1744757412758)
+@@ -1,3 +1,0 @@
+-def calculate() -> float:
+-    pass
+-#Hola comentario
+\ No newline at end of file
