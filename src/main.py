@@ -1,3 +1,6 @@
 def calculate() -> float:
     pass
-#Hola comentario
+
+
+def resta(a, b):
+    return a - b
